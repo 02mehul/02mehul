@@ -2,13 +2,13 @@
 
 **Software Engineer | AI & Data Systems | Full-Stack Developer**
 
-Based in Schmalkalden, Germany 🇩🇪 | Building intelligent data workflows and AI-integrated applications
+Building intelligent data workflows and AI-integrated applications
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer specializing in **AI-integrated applications**, **data systems architecture**, and **full-stack development**. I have a strong foundation in backend engineering, modern frontend frameworks, and sophisticated data workflows. Currently working as a Data & AI Systems Engineer at **Aventa GmbH**, where I design AWS-based data pipelines, orchestrate workflows with Apache Airflow, and build secure AI tool integrations.
+I'm a Software Engineer specializing in **AI-integrated applications**, **data systems architecture**, and **full-stack development**. I have a strong foundation in backend engineering, modern frontend frameworks, and sophisticated data workflows. 
 
 I'm passionate about:
 - 🤖 Building AI-powered applications with LLMs (Claude, GPT, Gemini)
@@ -36,15 +36,6 @@ I'm passionate about:
 **AI & Tools:** OpenAI (GPT) · Claude · Gemini · Cursor · GitHub Copilot · Custom MCP Servers · Prompt Engineering
 
 **Version Control:** Git · SVN
-
----
-
-## 🌐 Languages
-
-- 🇬🇧 English – Fluent
-- 🇩🇪 German – Intermediate (A2)
-- 🇮🇳 Hindi – Native
-- 🇮🇳 Gujarati – Native
 
 ---
 
