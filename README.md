@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=210&section=header&text=Mehul%20Modha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=56&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=210&section=header&text=Mehul%20Modha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=56&descAlign=50" width="100%" />
 
 <br/>
 
@@ -87,10 +87,10 @@ I'm a Software Engineer specializing in **AI-integrated applications**, **data s
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=02mehul&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=02mehul&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
