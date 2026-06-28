@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=210&section=header&text=Mehul%20Modha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack%20Developer&descAlignY=56&descAlign=50" width="100%" />
+<img src="./assets/header.svg" width="100%" />
 
 <br/>
 
@@ -110,6 +110,6 @@ I'm a Software Engineer specializing in **AI-integrated applications**, **data s
 
 **⭐ If you find my work interesting, feel free to explore my repositories and connect!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=130&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
 
 </div>
