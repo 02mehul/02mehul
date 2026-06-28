@@ -28,7 +28,7 @@
 
 I'm a Software Engineer specializing in **AI-integrated applications**, **data systems architecture**, and **full-stack development**. I build intelligent systems that automate and scale real-world business operations.
 
-- 🤖 Building multi-agent AI systems with LLMs (Claude, GPT, Gemini, Llama)
+- 🤖 Building multi-agent AI systems with LLMs (Claude, GPT, Gemini) · Local inference with Llama 3.1 & Qwen 2.5 via Ollama
 - 📊 Designing robust data pipelines and ETL workflows
 - 🏗️ Full-stack architecture with modern frameworks
 - ☁️ Cloud infrastructure and containerized deployments
@@ -68,6 +68,9 @@ I'm a Software Engineer specializing in **AI-integrated applications**, **data s
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D4A017?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen_2.5-FF6B00?style=for-the-badge&logo=alibabacoud&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
